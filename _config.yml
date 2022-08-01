@@ -33,8 +33,7 @@ disqus_shortname: jekyllt # replace with your disqus username
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
 # Permalinks
-permalink: /:title.html
-permalink: pretty
+permalink: /:title.html/
 # permalink: /author/:author
 # permalink: /tag/:tag
 
