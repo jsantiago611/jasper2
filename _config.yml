@@ -70,9 +70,9 @@ lsi: False
 username: jsantiago611
 repo: jasper2
 branch: master
-relative_source: ../jasper2/
+relative_source: ../jsantiago611/
 destination: ../jasper2-pages/
-production_url:  https://jekyllt.github.io/jasper2/
+production_url:  https://jasper2.vercel.app/
 source_url:  https://github.com/jsantiago611/jasper2/
 
 exclude:
