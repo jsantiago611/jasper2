@@ -19,7 +19,7 @@ CNAME: #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: jderekjames # replace by your username
@@ -71,7 +71,7 @@ username: jsantiago611
 repo: jasper2
 branch: master
 relative_source: ../jsantiago611/
-destination: ../jsantiago611-pages/
+destination: ../_site/
 production_url:  https://jasper2.vercel.app/
 source_url:  https://github.com/jsantiago611/jasper2/
 
