@@ -2,8 +2,8 @@
 /* ---------------------------------------------------------- */
 
 @font-face {
-  font-family: 'Labil';
-  src: url('../fonts/LabilGrotesk-Regular.woff') format('woff');
+  font-family: "Labil";
+  src: url("../fonts/LabilGrotesk-Regular.woff") format("woff");
   font-weight: 400;
   display: swap;
   font-style: normal;
