@@ -28,6 +28,69 @@ production stylesheet in assets/built/screen.css
 /* ---------------------------------------------------------- */
 @import "global.css";
 
+@font-face {
+  font-family: "Labil";
+  src: url("../fonts/LabilGrotesk-Regular.woff") format("woff");
+  font-weight: 400;
+  display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Labil';
+  src: url('../fonts/LabilGrotesk-Medium.woff') format('woff');
+  font-weight: 500;
+  display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rando';
+  src: url('../fonts/Rando-Regular.woff') format('woff');
+  display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rando Display';
+  src: url('../fonts/RandoDisplay-Medium.woff') format('woff');
+  display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Tobias';
+  src: url('../fonts/Tobias-Light.woff') format('woff');
+  font-weight: 300;
+  display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Tobias';
+  src: url('../fonts/Tobias-Thin.woff') format('woff');
+  font-weight: 100;
+  display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Soehne';
+  src: url('../fonts/soehne-web-buch.woff') format('woff');
+  font-weight: 400;
+  display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Soehne';
+  src: url('../fonts/soehne-web-halbfett.woff') format('woff');
+  font-weight: 700;
+  display: swap;
+  font-style: normal;
+}
+
+
 body {
     background: #f4f8fb;
 }
