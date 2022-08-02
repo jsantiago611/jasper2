@@ -10,6 +10,14 @@
 }
 
 @font-face {
+  font-family: "Labil";
+  src: url("/fonts/LabilGrotesk-Regular.woff") format("woff");
+  font-weight: 400;
+  display: swap;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'Labil';
   src: url('../fonts/LabilGrotesk-Medium.woff') format('woff');
   font-weight: 500;
